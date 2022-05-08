@@ -1,6 +1,6 @@
 +++
 title = "A look at (r)age for modern encryption"
-date = 2022-05-06T00:00:00+00:00
+date = 2022-05-08T18:00:00+00:00
 description = "A dive into age, the tool offering simple, modern, and secure encryption. How it works, tooling, and how Rust developers can commit secrets publicly, safely, and confidently."
 
 [taxonomies]
