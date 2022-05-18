@@ -10,8 +10,8 @@ tags = ["rust"]
 toc = true
 +++
 
-# What is Blind 50?
-The [Blind 75](https://leetcode.com/list/xi4ci4ig/) is the most important list of questions used in coding interviews to judge candidates. Years later, the author later revised this list to 50 questions in 5 weeks for those preparing for interviews on an even quicker timeframe[^author_rev]. Preparing for these interviews usually means hitting a heavy paywall. As my philosophy is open-source, I am providing a list of the author's Blind50 questions, implemented in Rust.
+# What are the Blind 50?
+The [Blind 75](https://leetcode.com/list/xi4ci4ig/) is the most important list of questions used in coding interviews to judge candidates. Years later, the author later revised this list to 50 questions in 5 weeks to prepare in an even quicker timeframe[^author_rev]. Preparing for these interviews usually means hitting a heavy paywall, and I am against money benefitting someone's education. Hence, I wanted to open-source the author's Blind 50 questions, implemented in Rust. This is dually helpful because the answers are uniquely different than the common Python or Java implementations you may find online, given the uniqueness of Rust itself.
 
 # Blind50 List
 ## Sequences
