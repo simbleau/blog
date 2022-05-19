@@ -9,6 +9,7 @@ mod longest_substring_without_repeating_characters;
 mod two_sum;
 mod valid_anagram;
 mod valid_parentheses;
+mod maximum_subarray;
 
 pub fn template() {}
 #[cfg(test)]
