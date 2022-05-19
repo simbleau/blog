@@ -5,6 +5,7 @@ mod contains_duplicate;
 #[allow(dead_code)]
 mod longest_substring_without_repeating_characters;
 mod two_sum;
+mod best_time_to_buy_and_sell_stock;
 
 pub fn template() {}
 #[cfg(test)]
