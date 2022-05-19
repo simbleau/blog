@@ -6,6 +6,7 @@ mod contains_duplicate;
 #[allow(dead_code)]
 mod longest_substring_without_repeating_characters;
 mod two_sum;
+mod valid_anagram;
 
 pub fn template() {}
 #[cfg(test)]
