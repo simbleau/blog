@@ -8,6 +8,7 @@ pub mod maximum_subarray;
 pub mod two_sum;
 pub mod valid_anagram;
 pub mod valid_parentheses;
+pub mod product_of_array_except_self;
 
 // Template for a  solution
 pub fn template() {}
