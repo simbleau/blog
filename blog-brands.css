@@ -1,0 +1,1 @@
+@font-face{font-family:'Blog-Brands';src:url("fonts/blog-brands.woff2") format("woff2")}[class^="b-"]:before,[class*=" b-"]:before{font-family:"Blog-Brands";font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1em;width:1em;vertical-align:1em;text-align:center;display:inline-block}.b-rust:before{content:'\e07a'}

@@ -1,0 +1,4 @@
+Sitemap: https://simbleau.github.io/blog/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://simbleau.github.io/blog
